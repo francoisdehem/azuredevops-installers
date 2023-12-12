@@ -1,2 +1,2 @@
-sudo apt-get install zip
-sudo apt-get install unzip
+sudo apt-get install zip -y
+sudo apt-get install unzip -y
